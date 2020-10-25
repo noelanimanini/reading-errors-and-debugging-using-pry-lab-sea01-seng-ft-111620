@@ -7,4 +7,3 @@ def snake_it_up(string)
     puts "hello"
   end
 end
-
